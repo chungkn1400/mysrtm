@@ -1,0 +1,17 @@
+[Project]
+Version=3
+Description=SRTM
+Api=fb (FreeBASIC)
+[Make]
+Current=1
+1=Windows GUI,fbc -s gui
+Recompile=2
+Module=Module Build,fbc -c
+[TabOrder]
+TabOrder=1
+[File]
+1=SRTM.bas
+[BreakPoint]
+1=
+[FileInfo]
+1=0,522,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
