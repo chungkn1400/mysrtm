@@ -1,1 +1,1 @@
-http://test-chung.1d35.starter-us-east-1.openshiftapps.com/
+http://test-chung.1d35.starter-us-east-1.openshiftapps.com/ 
